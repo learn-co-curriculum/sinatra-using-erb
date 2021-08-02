@@ -123,11 +123,8 @@ This should display:
 </ul>
 ```
 
-## Video Review
-
-* [Video Review- Forms](https://www.youtube.com/watch?v=0TyCN_oJU3Y) 
-
 ## Resources
-[An Introduction to ERB Templating - Stuart Ellis](http://www.stuartellis.eu/articles/erb/)
-[A cheatsheet on choosing ERB tags](https://medium.com/swlh/cheatsheet-which-erb-tag-should-i-use-4b3de261f15f)
+
+- [An Introduction to ERB Templating - Stuart Ellis](https://www.stuartellis.name/articles/erb/)
+- [A cheatsheet on choosing ERB tags](https://medium.com/swlh/cheatsheet-which-erb-tag-should-i-use-4b3de261f15f)
 
